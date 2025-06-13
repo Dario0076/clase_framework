@@ -6,5 +6,5 @@ POST https://claseframework-e5od--3000--6ba59070.local-corp.webcontainer.io/task
 content-type: application/json
 
 {
-    "name": "ale"
+    "name": "alex"
 }
